@@ -1,0 +1,75 @@
+*{
+
+    margin:0;
+    padding: 0;
+}
+
+header{
+
+/* background-color: blue; */
+
+display: flex;
+
+justify-content: space-between;
+
+width: 90%;
+
+margin-left: 5%;
+
+margin-top: 3opx;
+
+margin-top: 30px;
+
+margin-bottom: 30px;
+}
+
+.logo{
+
+width: 20%;
+
+/* background-color: red; */
+}
+
+
+
+nav{
+
+width: 50%;
+}
+
+header nav ul{
+
+display: flex;
+
+list-style: none;
+
+justify-content: end;
+}
+
+header nav ul li{
+
+margin-left: 30px;
+
+/* text-decoration: none; */
+}
+
+header nav ul li a{
+
+text-decoration: none;
+
+color: #626262;
+
+text-transform: uppercase;
+}
+
+.banner_section{
+
+width: 90%;
+
+margin-left: 5%;
+}
+
+.banner_section img{
+
+width: 100%;
+}
